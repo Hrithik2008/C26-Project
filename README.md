@@ -1,2 +1,2 @@
 # C26-Project
-(Click here)[Mints.md]
+[Click here](Mints.md)
